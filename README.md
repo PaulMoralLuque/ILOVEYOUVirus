@@ -10,7 +10,7 @@ El "ILOVEYOU Virus" FUe un gusano informatico que se propagó por todo el mundo 
 
 Era un gusano que se propago a través del correo electrónico y se presentaba como un mensaje con el asunto 2ILOVEYOU" y un archivo adjunto llamado "LOVE-LETTER-FOR-YOU.txt.vbs". Una vez era abierto por el usuario empezaba a propagarse a traves de la libreta de direciones del usuario, enviando copias de sí mismo a todos los contactos.
 
-
+![imagen](https://github.com/PaulMoralLuque/ILOVEYOUVirus/blob/main/descarga.jpeg "titulo")
 
 ### Que hacia
 
@@ -20,3 +20,4 @@ Una vez era ejecutado, el gusano tenía la capacidad de sobrescribir archivos en
 
 Este incidente también llevo a la creación de leyes y regulaciones más estrcitas en varios paises. El autor del gusano nunca fue condenado, y el caso puso de manifiesto los desafios legales y tecnicos de rastrear y procesar a los responsables cibreneticos.
 
+![imagen](https://github.com/PaulMoralLuque/ILOVEYOUVirus/blob/main/QQ2G3G2XYJCBTPPOJVFSFGAH44.jpg "titulo")
