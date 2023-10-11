@@ -4,11 +4,11 @@
 
 ### Qué era
 
-El "ILOVEYOU Virus" FUe un gusano informatico que se propagó por todo el mundo en mayo del año 2000. Este gusano fue uno de los ataques informáticos más notorios de su época debido a su rápida propagación y los daños que causó en miles de ordenadores de todo el mundo.
+El "ILOVEYOU Virus" Fue un gusano informatico que se propagó por todo el mundo en mayo del año 2000. Este gusano fue uno de los ataques informáticos más notorios de su época debido a su rápida propagación y los daños que causó en miles de ordenadores de todo el mundo.
 
 ### Como se propagó
 
-Era un gusano que se propago a través del correo electrónico y se presentaba como un mensaje con el asunto 2ILOVEYOU" y un archivo adjunto llamado "LOVE-LETTER-FOR-YOU.txt.vbs". Una vez era abierto por el usuario empezaba a propagarse a traves de la libreta de direciones del usuario, enviando copias de sí mismo a todos los contactos.
+Era un gusano que se propago a través del correo electrónico y se presentaba como un mensaje con el asunto "ILOVEYOU" y un archivo adjunto llamado "LOVE-LETTER-FOR-YOU.txt.vbs". Una vez era abierto por el usuario empezaba a propagarse a traves de la libreta de direciones del usuario, enviando copias de sí mismo a todos los contactos.
 
 ![imagen](https://github.com/PaulMoralLuque/ILOVEYOUVirus/blob/main/descarga.jpeg "titulo")
 
