@@ -14,7 +14,7 @@ Era un gusano que se propago a través del correo electrónico y se presentaba c
 
 ### Que hacia
 
-Una vez era ejecutado, el gusano tenía la capacidad de sobrescribir archivos en el ordenador del usuario, robar contraseñas y enviarlas a un servidor remoto para realizar otras acciones dañinas. Tambien remplazaba archibos de imagen y musica con copias de si mismo, lo que causaba la perdida de datos en los ordenadores infectados.
+Una vez era ejecutado, el gusano tenía la capacidad de sobrescribir archivos en el ordenador del usuario, robar contraseñas y enviarlas a un servidor remoto para realizar otras acciones dañinas. Tambien remplazaba archivos de imagen y musica con copias de si mismo, lo que causaba la perdida de datos en los ordenadores infectados.
 
 ### Como acabó
 
